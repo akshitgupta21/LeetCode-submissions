@@ -1,0 +1,16 @@
+leetcode-submissions
+│
+├── README.md
+│
+├── 🟢 Easy Problems
+│   ├── 0001 - Two Sum
+│   │   └── solution.py
+│   ├── 0009 - Palindrome Number
+│   │   └── solution.py
+│   └── ...
+│
+├── 🟡 Medium Problems
+│   └── ...
+│
+└── 🔴 Hard Problems
+    └── ...
